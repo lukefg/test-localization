@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-fr
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-fr
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d88505f91f6a94fa8b4c634d55d48849
+  m_SerializeEntries:
+  - m_GUID: 1190f8b94a22141ce95b8525093aa654
+    m_Address: french
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9da2abc8493284bd3a83a519f844ee01
+    m_Address: france-flag-3d-round-icon-256
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f841126ad53704e2fa9ffe114f96d1c2
+    m_Address: france-flag-large
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a08b8f91d6cda4563bea70a943136f54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4709b5460c5cc4f6498b823cd364a1c1, type: 2}
+    - {fileID: 11400000, guid: 0608200dc7fad49ce9d905e6fee0dd94, type: 2}

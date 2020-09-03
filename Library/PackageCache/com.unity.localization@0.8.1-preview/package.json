@@ -1,0 +1,51 @@
+{
+  "name": "com.unity.localization",
+  "displayName": "Localization",
+  "version": "0.8.1-preview",
+  "unity": "2019.3",
+  "description": "Preview of player localization system. Provides tools for localizing your built application.",
+  "keywords": [
+    "localization",
+    "locale",
+    "language"
+  ],
+  "dependencies": {
+    "com.unity.addressables": "1.7.5",
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  },
+  "upmCi": {
+    "footprint": "82221050eec4aa67cc5b41f58e752a0152e823c7"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.localization.git",
+    "type": "git",
+    "revision": "791a470597534ca7222c6ba4927509d54dc3d24a"
+  },
+  "samples": [
+    {
+      "displayName": "Creating Locales",
+      "description": "This sample shows how to Locales including custom ones through script.",
+      "path": "Samples~/CreatingLocales"
+    },
+    {
+      "displayName": "Google Sheets",
+      "description": "These samples show how String Table Collections can be pushed and pulled from one or more Google Sheets with custom data.",
+      "path": "Samples~/GoogleSheets"
+    },
+    {
+      "displayName": "Loading Strings",
+      "description": "This sample shows multiple ways to fetch localized strings from the Localization system.",
+      "path": "Samples~/LoadingStrings"
+    },
+    {
+      "displayName": "Language Selection Menu (IMGUI)",
+      "description": "This sample shows how to implement a simple language selection menu using IMGUI. The sample also includes an example of overriding the LocalesProvider in order to provide a custom list of available Locales.",
+      "path": "Samples~/LocaleMenuIMGUI"
+    },
+    {
+      "displayName": "Language Selection Menu (UGUI)",
+      "description": "This sample shows how to implement a simple language selection menu using a UGUI Dropdown.",
+      "path": "Samples~/LocaleMenuUGUI"
+    }
+  ]
+}

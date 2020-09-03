@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-AssetTables
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-AssetTables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7d1e5f43816874fd4b5a5d6f121da499
+  m_SerializeEntries:
+  - m_GUID: 4f6da25c096084d8a8d51f934fa17403
+    m_Address: TestLocalizationTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    m_mainAssetType: UnityEngine.Localization.Tables.AssetTable, Unity.Localization,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef1fdc1e0a9bf4cbdb37e3eca4000210
+    m_Address: TestLocalizationTable_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_mainAssetType: UnityEngine.Localization.Tables.AssetTable, Unity.Localization,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f88f1ab8737754f4d879a148d8448bfb
+    m_Address: TestLocalizationTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_mainAssetType: UnityEngine.Localization.Tables.AssetTable, Unity.Localization,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a08b8f91d6cda4563bea70a943136f54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 05dc5f070988140b6b983de53d40454b, type: 2}
+    - {fileID: 11400000, guid: bbcbcd4656fa54994b0aa9c2910aecff, type: 2}

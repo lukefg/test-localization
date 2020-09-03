@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: TestLocalizationTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 56c193737dd5c4bbf858460b41610c96, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 161303486464
+    m_Localized: 9da2abc8493284bd3a83a519f844ee01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15463802200064
+    m_Localized: 1190f8b94a22141ce95b8525093aa654
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23268047183872
+    m_Localized: f841126ad53704e2fa9ffe114f96d1c2
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
